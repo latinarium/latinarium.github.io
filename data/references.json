@@ -1,0 +1,92 @@
+[
+    {
+        "r": "Blaise",
+        "c": "Blaise, A. (1954). Dictionnaire latin-français des auteurs chrétiens. Brepols.",
+        "l": ""
+    },
+    {
+        "r": "Chevin",
+        "c": "Chevin, A. (1897). Dictionnaire latin-français des noms propres de lieux.",
+        "l": "https://www.google.de/books/edition/Dictionnaire_latin_fran%C3%A7ais_des_noms_pr/IyYZU2T7qZsC?hl=en&gbpv=1&pg=PP9&printsec=frontcover"
+    },
+    {
+        "r": "DMLBS",
+        "c": "Ashdowne, R. K., Howlett, D. R., & Latham, R. E. (2018). Dictionary of Medieval Latin from British sources. Oxford University Press.",
+        "l": ""
+    },
+    {
+        "r": "DMNES",
+        "c": "Uckelman, S.L. (2023). The Dictionary of Medieval Names from European Sources. (Edition 2023, no. 1.). URL: <http://dmnes.org/>",
+        "l": "https://dmnes.org/names"
+    },
+    {
+        "r": "Du Cange",
+        "c": "Du Cange, et al. (1883-1887). Glossarium mediæ et infimæ latinitatis. Niort: L. Favre.",
+        "l": "http://ducange.enc.sorbonne.fr/"
+    },
+    {
+        "r": "Gaffiot",
+        "c": "Gaffiot, F. (1934). Dictionnaire latin-français. Hachette.",
+        "l": "https://gaffiot.fr/"
+    },
+    {
+        "r": "Georges",
+        "c": "Georges, K. E., Georges, H. (1998). Ausführliches lateinisch-deutsches Handwörterbuch. (Reprint der Ausgabe Hannover: Hahnsche Buchhandlung, 1913/1918). Darmstadt: Wissenschaftliche Buchgesellschaft.",
+        "l": "http://www.zeno.org/Georges-1913"
+    },
+    {
+        "r": "Lewis&Short",
+        "c": "Lewis, C. T., Short, C. (1879). A Latin Dictionary. Oxford University Press.",
+        "l": "https://alatius.com/ls/index.php"
+    },
+    {
+        "r": "LLN",
+        "c": "Fuchs, J.W., Weijers, O., Gumbert-Hepp, M. (1977-2005). Lexicon Latinitatis Nederlandicae Medii Aevi. Leiden/Boston: Brill.",
+        "l": ""
+    },
+    {
+        "r": "LML",
+        "c": "Bernhard, M. (Hrsg.). (2016). Lexicon musicum Latinum medii aevi. München: BAdW.",
+        "l": "https://woerterbuchnetz.de/?sigle=LmL&lemid=A00001"
+    },
+    {
+        "r": "Niermeyer",
+        "c": "Niermeyer, J.F., van de Kieft, C., & Burgers, J.W.J (2002). Mediae Latinitatis Lexicon Minus. Brill.",
+        "l": ""
+    },
+    {
+        "r": "OLD",
+        "c": "Glare, P. G. W. (2012). Oxford Latin Dictionary. (2nd edn.). Oxford University Press.",
+        "l": ""
+    },
+    {
+        "r": "Orbis latinus",
+        "c": "Graesse, J. G. T., Benedict, F., & Plechl, H. (1972). Orbis latinus : Lexikon lateinischer geographischer Namen des Mittelalters und der Neuzeit. Braunschweig: Klinkhardt & Biermann.",
+        "l": "https://www.bavarikon.de/object/bav:BSB-CMS-0000000000003989"
+    },
+    {
+        "r": "PONS",
+        "c": "PONS. Online-Wörterbuch Latein - Deutsch.",
+        "l": "https://de.pons.com/%C3%BCbersetzung/latein-deutsch"
+    },
+    {
+        "r": "PECS",
+        "c": "Stillwell, R., MacDonald, W. L., McAlister, M. H. (1976). The Princeton encyclopedia of classical sites.  Princeton, N.J. Princeton University Press.",
+        "l": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006"
+    },
+    {
+        "r": "Stowasser",
+        "c": "Stowasser, J. M., Petschenig, M., & Skutsch, F. (2016). Stowasser: Lateinisch-deutsches Schulwörterbuch. (F. Lošek, Hrsg.; Völlige Neubearbeitung, 1. Auflage). Oldenbourg Schulbuchverlag.",
+        "l": ""
+    },
+    {
+        "r": "TA",
+        "c": "FIPAT (Federative International Programme for Anatomical Terminology). (2019). Terminologia Anatomica. (2nd ed). Online: fipat.library.dal.ca",
+        "l": "https://ta2viewer.openanatomy.org/"
+    },
+    {
+        "r": "Vicipaedia",
+        "c": "Vicipaedia.",
+        "l": "https://la.wikipedia.org/"
+    }
+]

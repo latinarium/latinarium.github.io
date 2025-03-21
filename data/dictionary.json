@@ -1,0 +1,379 @@
+[
+    {
+        "l": "",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [],
+                "g": []
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": []
+    },
+    {
+        "l": "cochleola",
+        "f": "-ae",
+        "c": "f.",
+        "v": [
+            "cocleola"
+        ],
+        "n": "< cochlea",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "small snail"
+                ],
+                "g": [
+                    "kleine Schnecke"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Georges",
+            "Lewis&Short"
+        ],
+        "s": []
+    },
+    {
+        "l": "cochlea",
+        "f": "-ae",
+        "c": "f.",
+        "v": [
+            "coclea"
+        ],
+        "n": "",
+        "e": "< gr. κοχλίας",
+        "t": [
+            {
+                "e": [
+                    "snail"
+                ],
+                "g": [
+                    "Schnecke"
+                ]
+            }
+        ],
+        "d": [
+            "cochleatus",
+            "cochleola",
+            "cochleatim",
+            "cochlearium"
+        ],
+        "r": [
+            "Georges",
+            "Gaffiot",
+            "Lewis&Short"
+        ],
+        "s": []
+    },
+    {
+        "l": "hiems",
+        "f": "-emis",
+        "c": "f.",
+        "v": [
+            "hiemps"
+        ],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "winter"
+                ],
+                "g": [
+                    "Winter"
+                ]
+            }
+        ],
+        "d": [
+            "hiemalis",
+            "hiemare"
+        ],
+        "r": [
+            "Lewis&Short"
+        ],
+        "s": []
+    },
+    {
+        "l": "Adaldagus",
+        "f": "-i",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "Adaldag"
+                ],
+                "g": []
+            }
+        ],
+        "d": [],
+        "r": [
+            "DMNES"
+        ],
+        "s": []
+    },
+    {
+        "l": "Genava",
+        "f": "-ae",
+        "c": "f.",
+        "v": [
+            "Geneva",
+            "Genna"
+        ],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "Geneva"
+                ],
+                "g": [
+                    "Genf"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Lewis&Short",
+            "Georges",
+            "Gaffiot"
+        ],
+        "s": []
+    },
+    {
+        "l": "Tokium",
+        "f": "-ii",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "Tokyo"
+                ],
+                "g": [
+                    "Tokio"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Chevin"
+        ],
+        "s": []
+    },
+    {
+        "l": "polynomium",
+        "f": "-ii",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "polynomial"
+                ],
+                "g": [
+                    "Polynom"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": [
+            {
+                "s": "‘polynomium’:de Lacaille, N.-L. (1762). LECTIONES ELEMENTARES MATHEMATICAE SEU ELEMENTA ALGEBRAE ET GEOMETRIAE. Vienna:Trattner",
+                "l": "https://www.google.de/books/edition/Elementa_algebrae_et_geometriae/MrhJAAAAMAAJ?hl=de&gbpv=1&printsec=frontcover&bsq=%22polynomium%22"
+            }
+        ]
+    },
+    {
+        "l": "Beati pauperes spiritu:quoniam ipsorum est regnum caelorum.",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "Blessed are the poor in spirit, for theirs is the Kingdom of Heaven."
+                ],
+                "g": [
+                    "Selig sind die geistlich Armen, denn ihrer ist das Himmelreich."
+                ]
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": [
+            {
+                "s": "Vulgata:Mt 5:3",
+                "l": "https://www.biblegateway.com/passage/?search=Mt%205%3A3&version=VULGATE;KJ21;SCH1951&interface=print"
+            }
+        ]
+    },
+    {
+        "l": "corvus",
+        "f": "-i",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "raven"
+                ],
+                "g": [
+                    "Rabe"
+                ]
+            }
+        ],
+        "d": [
+            "corvinus"
+        ],
+        "r": [
+            "Lewis&Short",
+            "Georges"
+        ],
+        "s": []
+    },
+    {
+        "l": "Os temporale",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "temporal bone"
+                ],
+                "g": [
+                    "Schläfenbein"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "TA"
+        ],
+        "s": []
+    },
+    {
+        "l": "carbonatum calcii",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "calcium carbonate"
+                ],
+                "g": [
+                    "Kalziumkarbonat"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Vicipaedia"
+        ],
+        "s": [
+            {
+                "s": "Margulis, M. (1969). Sinonomia química, bioquímica y farmacéutica. La Farmacia Química",
+                "l": "https://www.google.de/books/edition/Sinonomia_qu%C3%ADmica_bioqu%C3%ADmica_y_farmac/fR5ZAAAAMAAJ?hl=en&gbpv=1&bsq=%22calcii%3A%20carbonato%20de%20calcio%22&dq=%22carbonatum%20calcii%22&printsec=frontcover"
+            }
+        ]
+    },
+    {
+        "l": "ruber",
+        "f": "-bra, -brum",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "red"
+                ],
+                "g": [
+                    "rot"
+                ]
+            }
+        ],
+        "d": [
+            "rubellus",
+            "rubellulus"
+        ],
+        "r": [
+            "Lewis&Short",
+            "Georges"
+        ],
+        "s": []
+    },
+    {
+        "l": "rubellus",
+        "f": "-a, -um",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "< ruber",
+        "t": [
+            {
+                "e": [
+                    "reddish"
+                ],
+                "g": [
+                    "rötlich"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Lewis&Short"
+        ],
+        "s": []
+    },
+    {
+        "l": "rubellulus",
+        "f": "-a, -um",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "< rubellus",
+        "t": [
+            {
+                "e": [
+                    "a little reddish"
+                ],
+                "g": [
+                    "ein wenig rötlich"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Lewis&Short"
+        ],
+        "s": []
+    }
+]
