@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "sella rotalis",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["wheelchair"],
+                "g": ["Rollstuhl"]
+            }
+        ],
+        "d": [],
+        "r": ["PONS"],
+        "s": []
+    },
+    {
         "l": "cochleola",
         "f": "-ae",
         "c": "f.",
