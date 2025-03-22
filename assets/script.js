@@ -138,7 +138,7 @@ if (query != null) {
     contentDiv.innerHTML = content;
     const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
     const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-} else if (page == "info") {
+} else if (page == "help") {
     var content = "<img src=\"assets/help-entry.png\" class=\"img-fluid\">";
     contentDiv.innerHTML = content;
 } else if (page == "references") {
@@ -151,9 +151,6 @@ if (query != null) {
         content += "</td></tr>";
     }
     content += "</table>";
-    contentDiv.innerHTML = content;
-} else if (page == "standard") {
-    var content = "Standard";
     contentDiv.innerHTML = content;
 } else {
     var content = "<h3>About</h3>Latinarium is a Latin dictionary with English and German translations under way of development. Users should take into account that some functions do not yet work satisfactorily. This dictionary is being developed by a community on Github. The project uses free and open software and is non-commercial. You are welcome to contribute to the <a target=\"_blank\" href=\"https://github.com/latinarium/latinarium.github.io\">repository</a>.";
