@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "holus",
+        "f": "-eris",
+        "c": "n.",
+        "v": ["olus"],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["vegetable"],
+                "g": ["Gemüse"]
+            }
+        ],
+        "d": ["holitor", "holitrix"],
+        "r": ["Lewis&Short", "Georges"],
+        "s": []
+    },
+    {
         "l": "taware",
         "f": "-o, -avi, -atum",
         "c": "v.",
