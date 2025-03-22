@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "ligustrum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["privet"],
+                "g": ["Liguster"]
+            }
+        ],
+        "d": ["ligustrinus"],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+    {
         "l": "Cruciniacum",
         "f": "-i",
         "c": "n.",
