@@ -1,5 +1,5 @@
-name: New Entry
-description: Suggest a new entry to the dictionary
+name: "New Entry"
+description: "Suggest a new entry to the dictionary"
 title: "[New Entry]: "
 labels: ["new entry"]
 body:
@@ -72,7 +72,7 @@ body:
       placeholder: "example: cochleatus, cochleola"
     validations:
       required: false
- - type: dropdown
+  - type: dropdown
     attributes:
       label: References
       description: "What are the references for the new entry?"
