@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "Turicum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["Zurich"],
+                "g": ["Zürich"]
+            }
+        ],
+        "d": ["Turicensis"],
+        "r": ["Chevin", "Orbis latinus"],
+        "s": []
+    },
+    {
         "l": "sella rotalis",
         "f": "",
         "c": "",
