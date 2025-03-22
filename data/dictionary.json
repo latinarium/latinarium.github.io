@@ -17,6 +17,57 @@
         "s": []
     },
     {
+        "l": "taware",
+        "f": "-o, -avi, -atum",
+        "c": "v.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["to taw"],
+                "g": ["weißgerben"]
+            }
+        ],
+        "d": [],
+        "r": ["DMLBS"],
+        "s": []
+    },
+    {
+        "l": "Turicum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["Zurich"],
+                "g": ["Zürich"]
+            }
+        ],
+        "d": ["Turicensis"],
+        "r": ["Chevin", "Orbis latinus"],
+        "s": []
+    },
+    {
+        "l": "sella rotalis",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["wheelchair"],
+                "g": ["Rollstuhl"]
+            }
+        ],
+        "d": [],
+        "r": ["PONS"],
+        "s": []
+    },
+    {
         "l": "cochleola",
         "f": "-ae",
         "c": "f.",
