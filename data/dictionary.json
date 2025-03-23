@@ -17,6 +17,109 @@
         "s": []
     },
     {
+        "l": "acer",
+        "f": "-eris",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "maple-tree"
+                ],
+                "g": [
+                    "Ahornbaum"
+                ]
+            }
+        ],
+        "d": [
+            "acernus"
+        ],
+        "r": [
+            "Georges",
+            "Lewis&Short"
+        ],
+        "s": []
+    },
+    {
+        "l": "ligustrum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "privet"
+                ],
+                "g": [
+                    "Liguster"
+                ]
+            }
+        ],
+        "d": [
+            "ligustrinus"
+        ],
+        "r": [
+            "Georges",
+            "Lewis&Short"
+        ],
+        "s": []
+    },
+    {
+        "l": "Cruciniacum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "Bad Kreuznach"
+                ],
+                "g": []
+            }
+        ],
+        "d": [],
+        "r": [
+            "PECS"
+        ],
+        "s": []
+    },
+    {
+        "l": "holus",
+        "f": "-eris",
+        "c": "n.",
+        "v": [
+            "olus"
+        ],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [
+                    "vegetable"
+                ],
+                "g": [
+                    "Gemüse"
+                ]
+            }
+        ],
+        "d": [
+            "holitor",
+            "holitrix",
+            "holusculum"
+        ],
+        "r": [
+            "Lewis&Short",
+            "Georges"
+        ],
+        "s": []
+    },
+    {
         "l": "taware",
         "f": "-o, -avi, -atum",
         "c": "v.",
@@ -25,12 +128,18 @@
         "e": "",
         "t": [
             {
-                "e": ["to taw"],
-                "g": ["weißgerben"]
+                "e": [
+                    "to taw"
+                ],
+                "g": [
+                    "weißgerben"
+                ]
             }
         ],
         "d": [],
-        "r": ["DMLBS"],
+        "r": [
+            "DMLBS"
+        ],
         "s": []
     },
     {
@@ -42,12 +151,21 @@
         "e": "",
         "t": [
             {
-                "e": ["Zurich"],
-                "g": ["Zürich"]
+                "e": [
+                    "Zurich"
+                ],
+                "g": [
+                    "Zürich"
+                ]
             }
         ],
-        "d": ["Turicensis"],
-        "r": ["Chevin", "Orbis latinus"],
+        "d": [
+            "Turicensis"
+        ],
+        "r": [
+            "Chevin",
+            "Orbis latinus"
+        ],
         "s": []
     },
     {
@@ -59,12 +177,18 @@
         "e": "",
         "t": [
             {
-                "e": ["wheelchair"],
-                "g": ["Rollstuhl"]
+                "e": [
+                    "wheelchair"
+                ],
+                "g": [
+                    "Rollstuhl"
+                ]
             }
         ],
         "d": [],
-        "r": ["PONS"],
+        "r": [
+            "PONS"
+        ],
         "s": []
     },
     {

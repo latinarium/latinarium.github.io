@@ -11,6 +11,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="assets/style.css">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
 </head>
 
 <body>
@@ -31,18 +36,18 @@
         <div class="py-4 bg-secondary-subtle /*container-fluid*/ search-container pb-2">
             <div class="container">
                 <div class="input-group input-group-lg">
-                    <input type="search" class="form-control rounded-0" id="searchbar" placeholder="Search..."
-                        aria-label="Search" autocomplete="off">
-                    <button class="btn btn-outline-secondary rounded-0 text-white search-button" type="button"
-                        id="searchButton" title="Suchen">
+                    <input type="search" class="form-control" id="searchbar" placeholder="Search..." aria-label="Search"
+                        autocomplete="off">
+                    <button class="btn btn-outline-secondary text-white search-button" type="button" id="searchButton"
+                        title="Suchen">
                         <i class="bi bi-search mx-2"></i></button>
                 </div>
                 <div class="mt-2 lh-lg ">
-                    <span class="me-3 menu-item"> <i class="bi bi-info-circle-fill"></i> <a class="menu-link"
+                    <span class="ms-1 me-2 menu-item"> <i class="bi bi-info-circle-fill"></i> <a class="menu-link"
                             href="?">About</a></span>
-                    <span class="me-3 menu-item"> <i class="bi bi-book-half"></i> <a class="menu-link"
+                    <span class="me-2 menu-item"> <i class="bi bi-book-half"></i> <a class="menu-link"
                             href="?page=references">References</a></span>
-                    <span class="me-3 menu-item"> <i class="bi bi-question-circle-fill"></i> <a class="menu-link"
+                    <span class="me-2 menu-item"> <i class="bi bi-question-circle-fill"></i> <a class="menu-link"
                             href="?page=help">Help</a></span>
 
 
@@ -50,7 +55,7 @@
             </div>
         </div>
 
-        <div class="container">
+        <div class="container noto-serif">
             <br>
             <div id="contentDiv"></div>
             <br>
