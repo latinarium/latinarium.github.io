@@ -17,6 +17,28 @@
         "s": []
     },
     {
+        "l": "Sola dosis facit venenum",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["The dose makes the poison"],
+                "g": ["Nur die Dosis macht das Gift"]
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": [
+            {
+                "s":"DocCheck Flexikon. (2023). \"Paracelsus\". Online: https://flexikon.doccheck.com/de/Paracelsus?oldid=521478 (Accessed: 23 March 2025)", 
+                "l":"https://flexikon.doccheck.com/de/Paracelsus?oldid=521478"
+            }
+        ]
+    },
+    {
         "l": "dosis",
         "f": "-is",
         "c": "f.",
