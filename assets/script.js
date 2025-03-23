@@ -57,7 +57,7 @@ if (query != null) {
         }
     }
 
-    content += "<span class=\"fs-6\">The search for ‘" + query + "’ returned " + matches.length + " result(s).</span><br><br>";
+    content += "<span style=\"color:black\"><b>Community Dictionary of Latin Online</b><br><span class=\"fs-6\">The search for ‘" + query + "’ returned " + matches.length + " result(s).</span></span><br><br>";
 
     if (matches.length == 0) {
         document.title = "No result | Latinarium";
@@ -94,7 +94,7 @@ if (query != null) {
             }
 
             if (matches[i].t.length > 0) {
-                content += "<br><b>Translations</b><br><table class=\"table table-hover table-borderless result-table\">"
+                content += "<br><b>Translations</b><br><table class=\"table table-borderless result-table\">"
                 for (var j = 0; j < matches[i].t.length; j++) {
                     content += "<tr><td class=\"translation-td\">" + matches[i].t[j].e + "</td><td class=\"translation-td\">" + matches[i].t[j].g + "</td></tr>";
                 }
@@ -104,7 +104,7 @@ if (query != null) {
             if (matches[i].d.length > 0) {
                 content += "<br><b>Derivatives</b><br>"
                 for (var j = 0; j < matches[i].d.length; j++) {
-                    content += "<a class=\"derivates-link\" href=\"?x=" + matches[i].d[j] + "\">" + matches[i].d[j] + "</a>, ";
+                    content += matches[i].d[j] + ", ";
                 }
                 content = content.substring(0, content.length - 2);
                 content += "<br>";
@@ -113,12 +113,7 @@ if (query != null) {
             if (matches[i].r.length > 0) {
                 content += "<br><b>References</b><br>"
                 for (var j = 0; j < matches[i].r.length; j++) {
-                    for (var k = 0; k < references.length; k++) {
-                        if (references[k].r == matches[i].r[j]) {
-                            content += "<u class=\"references-u\" data-bs-toggle=\"tooltip\" data-bs-title=\"" + references[k].c + "\">" + matches[i].r[j] + "</u>  ";
-                            break;
-                        }
-                    }
+                    content += "<u class=\"references-u\"" + references[k].c + "\">" + matches[i].r[j] + "</u>  ";
                 }
                 content = content.substring(0, content.length - 2);
                 content += "<br>";
@@ -136,8 +131,6 @@ if (query != null) {
         }
     }
     contentDiv.innerHTML = content;
-    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 } else if (page == "help") {
     var content = "<img src=\"assets/help-entry.png\" class=\"img-fluid\">";
     contentDiv.innerHTML = content;
