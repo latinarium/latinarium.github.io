@@ -17,6 +17,239 @@
         "s": []
     },
     {
+        "l": "mare liberum",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "⇹ mare clausum",
+        "e": "",
+        "t": [
+            {
+                "e": ["free sea"],
+                "g": ["freies Meer"]
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": [
+            {
+                "s": "Speake, Jennifer, and Mark LaFlaur. 'mare liberum.' The Oxford Essential Dictionary of Foreign Terms in English. Oxford University Press, 2002. (Accessed: 24 Mar. 2025) https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-4139",
+                "l": "https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-4139"
+            }
+        ]
+    },
+    {
+        "l": "alutare",
+        "f": "-o, -avi, -atum",
+        "c": "v.",
+        "v": [],
+        "n": "",
+        "e": "< aluta",
+        "t": [
+            {
+                "e": [
+                    "to taw"
+                ],
+                "g": [
+                    "weißgerben"
+                ]
+            }
+        ],
+        "d": [],
+        "r": [
+            "Niermeyer", "Blaise"
+        ],
+        "s": []
+    },
+    {
+        "l": "liberum arbitrium",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["free will"],
+                "g": ["freier Wille"]
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": [
+            {
+                "s": "Speake, Jennifer, and Mark LaFlaur. 'liberum arbitrium.' The Oxford Essential Dictionary of Foreign Terms in English. Oxford University Press, 2002. (Accessed 24 Mar. 2025) https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-3886",
+                "l": "https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-3886"
+            },
+            {
+                "s": "'Liberum arbitrium', in: Metzler Lexikon Philosophie, Spektrum. (Accessed 24 Mar. 2025) https://www.spektrum.de/lexikon/philosophie/liberum-arbitrium/1217#",
+                "l": "https://www.spektrum.de/lexikon/philosophie/liberum-arbitrium/1217#"
+            },
+            {
+                "s": "'Liberum arbitrium', in: Brockhaus' Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911., S. 53.",
+                "l": "http://www.zeno.org/nid/20001304720"
+            }
+        ]
+    },
+    {
+        "l": "ensiger",
+        "f": "-gera, -gerum",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "< ensis + -ger",
+        "t": [
+            {
+                "e": ["sword-bearing"],
+                "g": ["Schwert führend"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+    {
+        "l": "ensifer",
+        "f": "-fera, -ferum",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["sword-bearing"],
+                "g": ["Schwert tragend"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+    {
+        "l": "ensiculus",
+        "f": "-i",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "< ensis",
+        "t": [
+            {
+                "e": ["little sword"],
+                "g": ["kleines Schwert"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+     {
+        "l": "ensis",
+        "f": "-is",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["sword"],
+                "g": ["Schwert"]
+            }
+        ],
+        "d": ["ensiculus", "ensifer", "ensiger"],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+    {
+        "l": "registrum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["register"],
+                "g": ["Register"]
+            }
+        ],
+        "d": [],
+        "r": ["Blaise", "DMLBS", "Hoven"],
+        "s": []
+    },
+    {
+        "l": "Monacum",
+        "f": "-i",
+        "c": "n.",
+        "v": ["Monachium"],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["Munich"],
+                "g": ["München"]
+            }
+        ],
+        "d": [],
+        "r": ["Blaise"],
+        "s": []
+    },
+    {
+        "l": "Monacensis",
+        "f": "-e",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["of or from Munich"],
+                "g": ["von oder aus München"]
+            }
+        ],
+        "d": [],
+        "r": ["Blaise"],
+        "s": []
+    },
+    {
+        "l": "Sola dosis facit venenum",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["The dose makes the poison"],
+                "g": ["Nur die Dosis macht das Gift"]
+            }
+        ],
+        "d": [],
+        "r": [],
+        "s": [
+            {
+                "s":"DocCheck Flexikon. (2023). \"Paracelsus\". Online: https://flexikon.doccheck.com/de/Paracelsus?oldid=521478 (Accessed: 23 March 2025)", 
+                "l":"https://flexikon.doccheck.com/de/Paracelsus?oldid=521478"
+            }
+        ]
+    },
+    {
+        "l": "dosis",
+        "f": "-is",
+        "c": "f.",
+        "v": [],
+        "n": "",
+        "e": "< Gr. δόσις",
+        "t": [
+            {
+                "e": ["dose"],
+                "g": ["Dosis"]
+            }
+        ],
+        "d": [],
+        "r": ["DMLBS", "MLW"],
+        "s": []
+    },
+    {
         "l": "acer",
         "f": "-eris",
         "c": "n.",
@@ -428,7 +661,7 @@
         "s": []
     },
     {
-        "l": "Os temporale",
+        "l": "os temporale",
         "f": "",
         "c": "",
         "v": [],

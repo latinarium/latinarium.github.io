@@ -116,7 +116,8 @@ b {
     font-style: italic;
 }
 
-.references-u {
+.references-u,
+.references-td {
     color: black !important;
     text-decoration: underline;
     text-decoration-style: solid;
