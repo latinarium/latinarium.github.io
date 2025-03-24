@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "ensiger",
+        "f": "-gera, -gerum",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "< ensis + -ger",
+        "t": [
+            {
+                "e": ["sword-bearing"],
+                "g": ["Schwert führend"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+    {
         "l": "ensifer",
         "f": "-fera, -ferum",
         "c": "adj.",
