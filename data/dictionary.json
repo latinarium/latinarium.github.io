@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "ensifer",
+        "f": "-fera, -ferum",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["sword-bearing"],
+                "g": ["Schwert tragend"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
+    {
         "l": "ensiculus",
         "f": "-i",
         "c": "m.",
