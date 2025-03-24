@@ -16,6 +16,23 @@
         "r": [],
         "s": []
     },
+     {
+        "l": "ensis",
+        "f": "-is",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["sword"],
+                "g": ["Schwert"]
+            }
+        ],
+        "d": ["ensiculus", "ensifer", "ensiger"],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
     {
         "l": "registrum",
         "f": "-i",
