@@ -16,6 +16,23 @@
         "r": [],
         "s": []
     },
+    {
+        "l": "ensiculus",
+        "f": "-i",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "< ensis",
+        "t": [
+            {
+                "e": ["little sword"],
+                "g": ["kleines Schwert"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"],
+        "s": []
+    },
      {
         "l": "ensis",
         "f": "-is",
