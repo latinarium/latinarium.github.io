@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "Monacum",
+        "f": "-i",
+        "c": "n.",
+        "v": ["Monachium"],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["Munich"],
+                "g": ["München"]
+            }
+        ],
+        "d": [],
+        "r": ["Blaise"],
+        "s": []
+    },
+    {
         "l": "Monacensis",
         "f": "-e",
         "c": "adj.",
