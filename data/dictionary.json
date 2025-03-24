@@ -17,6 +17,23 @@
         "s": []
     },
     {
+        "l": "registrum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["register"],
+                "g": ["Register"]
+            }
+        ],
+        "d": [],
+        "r": ["Blaise", "DMLBS", "Hoven"],
+        "s": []
+    },
+    {
         "l": "Monacum",
         "f": "-i",
         "c": "n.",
