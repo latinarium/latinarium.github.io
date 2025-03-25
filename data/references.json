@@ -6,7 +6,7 @@
     },
     {
         "r": "Chevin",
-        "c": "Chevin, A. (1897). Dictionnaire latin-français des noms propres de lieux.",
+        "c": "Chevin, A. (1897). Dictionnaire latin-français des noms propres de lieux. Paris",
         "l": "https://www.google.de/books/edition/Dictionnaire_latin_fran%C3%A7ais_des_noms_pr/IyYZU2T7qZsC?hl=en&gbpv=1&pg=PP9&printsec=frontcover"
     },
     {
@@ -53,6 +53,11 @@
         "r": "LML",
         "c": "Bernhard, M. (Hrsg.). (2016). Lexicon musicum Latinum medii aevi. München: BAdW.",
         "l": "https://woerterbuchnetz.de/?sigle=LmL&lemid=A00001"
+    },
+    {
+        "r": "LRL",
+        "c": "Opus Fundatum \"Latinitas.\" (1992). Lexicon recentis latinitatis. Urbe Vaticana: Libraria Editoria Vaticana. ISBN 978-88-209-1731-9",
+        "l": ""
     },
     {
         "r": "Niermeyer",

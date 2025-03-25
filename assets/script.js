@@ -118,15 +118,7 @@ if (query != null) {
                 content = content.substring(0, content.length - 2);
                 content += "<br>";
             }
-
-            if (matches[i].s.length > 0) {
-                content += "<br><b>Sources</b><br>"
-                for (var j = 0; j < matches[i].s.length; j++) {
-                    content += "<a class=\"sources-link\" target=\"_blank\" href=\"" + matches[i].s[j].l + "\">" + matches[i].s[j].s + "</a>, ";
-                }
-                content = content.substring(0, content.length - 2);
-                content += "<br>";
-            }
+            
             content += "</div><br>";
         }
     }
