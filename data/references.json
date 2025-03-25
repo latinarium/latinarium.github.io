@@ -36,13 +36,18 @@
     },
     {
         "r": "Hoven",
-        "c": "R. Hoven. Lexique de la prose latine de la Renaissance - Dictionary of Renaissance Latin from prose sources. 2 ed., Leiden: Brill, 2006",
+        "c": "Hoven, R. (2006). Lexique de la prose latine de la Renaissance - Dictionary of Renaissance Latin from prose sources. 2 ed., Leiden: Brill",
         "l": "https://brill.com/display/title/11415"
     },
     {
         "r": "Lewis&Short",
         "c": "Lewis, C. T., Short, C. (1879). A Latin Dictionary. Oxford University Press.",
         "l": "https://alatius.com/ls/index.php"
+    },
+    {
+        "r": "Lichtenberger",
+        "c": "Lichtenberger, P. (2025). Lexicon Latinum Hodiernum Lucusaltianum. Perg: Peter Lichtenberger Verlag",
+        "l": "http://lateinlexikon.com/index.htm"
     },
     {
         "r": "LLN",
