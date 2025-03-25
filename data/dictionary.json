@@ -1,6 +1,6 @@
 [
     {
-        "l": "",
+        "l": "liberum arbitrium",
         "f": "",
         "c": "",
         "v": [],
@@ -8,12 +8,12 @@
         "e": "",
         "t": [
             {
-                "e": [],
-                "g": []
+                "e": ["free will"],
+                "g": ["freier Wille"]
             }
         ],
         "d": [],
-        "r": []
+        "r": ["Meyers"]
     },
     {
         "l": "ni fallor",
