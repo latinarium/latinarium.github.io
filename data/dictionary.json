@@ -1,5 +1,37 @@
 [
     {
+        "l": "",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": [""],
+                "g": [""]
+            }
+        ],
+        "d": [],
+        "r": [""]
+    },
+    {
+        "l": "clon",
+        "f": "-onis",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["clone"],
+                "g": ["Klon"]
+            }
+        ],
+        "d": ["clonalis", "clonalitas", "clonare", "clonatio"],
+        "r": ["Deraedt&Licoppe", "Lichtenberger"]
+    },
+    {
         "l": "liberum arbitrium",
         "f": "",
         "c": "",
