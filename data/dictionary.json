@@ -13,8 +13,7 @@
             }
         ],
         "d": [],
-        "r": [],
-        "s": []
+        "r": []
     },
      {
         "l": "birota montana",
@@ -30,30 +29,7 @@
             }
         ],
         "d": [],
-        "r": ["LRL"],
-        "s": []
-    },
-    {
-        "l": "mare liberum",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "⇹ mare clausum",
-        "e": "",
-        "t": [
-            {
-                "e": ["free sea"],
-                "g": ["freies Meer"]
-            }
-        ],
-        "d": [],
-        "r": [],
-        "s": [
-            {
-                "s": "Speake, Jennifer, and Mark LaFlaur. 'mare liberum.' The Oxford Essential Dictionary of Foreign Terms in English. Oxford University Press, 2002. (Accessed: 24 Mar. 2025) https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-4139",
-                "l": "https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-4139"
-            }
-        ]
+        "r": ["LRL"]
     },
     {
         "l": "alutare",
@@ -75,37 +51,6 @@
         "d": [],
         "r": [
             "Niermeyer", "Blaise"
-        ],
-        "s": []
-    },
-    {
-        "l": "liberum arbitrium",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
-        "t": [
-            {
-                "e": ["free will"],
-                "g": ["freier Wille"]
-            }
-        ],
-        "d": [],
-        "r": [],
-        "s": [
-            {
-                "s": "Speake, Jennifer, and Mark LaFlaur. 'liberum arbitrium.' The Oxford Essential Dictionary of Foreign Terms in English. Oxford University Press, 2002. (Accessed 24 Mar. 2025) https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-3886",
-                "l": "https://www.oxfordreference.com/view/10.1093/acref/9780199891573.001.0001/acref-9780199891573-e-3886"
-            },
-            {
-                "s": "'Liberum arbitrium', in: Metzler Lexikon Philosophie, Spektrum. (Accessed 24 Mar. 2025) https://www.spektrum.de/lexikon/philosophie/liberum-arbitrium/1217#",
-                "l": "https://www.spektrum.de/lexikon/philosophie/liberum-arbitrium/1217#"
-            },
-            {
-                "s": "'Liberum arbitrium', in: Brockhaus' Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911., S. 53.",
-                "l": "http://www.zeno.org/nid/20001304720"
-            }
         ]
     },
     {
@@ -122,8 +67,7 @@
             }
         ],
         "d": [],
-        "r": ["Georges", "Lewis&Short"],
-        "s": []
+        "r": ["Georges", "Lewis&Short"]
     },
     {
         "l": "ensifer",
@@ -139,8 +83,7 @@
             }
         ],
         "d": [],
-        "r": ["Georges", "Lewis&Short"],
-        "s": []
+        "r": ["Georges", "Lewis&Short"]
     },
     {
         "l": "ensiculus",
@@ -156,8 +99,7 @@
             }
         ],
         "d": [],
-        "r": ["Georges", "Lewis&Short"],
-        "s": []
+        "r": ["Georges", "Lewis&Short"]
     },
      {
         "l": "ensis",
@@ -173,8 +115,7 @@
             }
         ],
         "d": ["ensiculus", "ensifer", "ensiger"],
-        "r": ["Georges", "Lewis&Short"],
-        "s": []
+        "r": ["Georges", "Lewis&Short"]
     },
     {
         "l": "registrum",
@@ -190,8 +131,7 @@
             }
         ],
         "d": [],
-        "r": ["Blaise", "DMLBS", "Hoven"],
-        "s": []
+        "r": ["Blaise", "DMLBS", "Hoven"]
     },
     {
         "l": "Monacum",
@@ -207,8 +147,7 @@
             }
         ],
         "d": [],
-        "r": ["Blaise"],
-        "s": []
+        "r": ["Blaise"]
     },
     {
         "l": "Monacensis",
@@ -224,30 +163,7 @@
             }
         ],
         "d": [],
-        "r": ["Blaise"],
-        "s": []
-    },
-    {
-        "l": "Sola dosis facit venenum",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
-        "t": [
-            {
-                "e": ["The dose makes the poison"],
-                "g": ["Nur die Dosis macht das Gift"]
-            }
-        ],
-        "d": [],
-        "r": [],
-        "s": [
-            {
-                "s":"DocCheck Flexikon. (2023). \"Paracelsus\". Online: https://flexikon.doccheck.com/de/Paracelsus?oldid=521478 (Accessed: 23 March 2025)", 
-                "l":"https://flexikon.doccheck.com/de/Paracelsus?oldid=521478"
-            }
-        ]
+        "r": ["Blaise"]
     },
     {
         "l": "dosis",
@@ -263,8 +179,7 @@
             }
         ],
         "d": [],
-        "r": ["DMLBS", "MLW"],
-        "s": []
+        "r": ["DMLBS", "MLW"]
     },
     {
         "l": "acer",
@@ -289,8 +204,7 @@
         "r": [
             "Georges",
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "ligustrum",
@@ -315,8 +229,7 @@
         "r": [
             "Georges",
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "Cruciniacum",
@@ -336,8 +249,7 @@
         "d": [],
         "r": [
             "PECS"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "holus",
@@ -366,8 +278,7 @@
         "r": [
             "Lewis&Short",
             "Georges"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "taware",
@@ -389,8 +300,7 @@
         "d": [],
         "r": [
             "DMLBS"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "Turicum",
@@ -415,8 +325,7 @@
         "r": [
             "Chevin",
             "Orbis latinus"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "sella rotalis",
@@ -438,8 +347,7 @@
         "d": [],
         "r": [
             "PONS"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "cochleola",
@@ -464,8 +372,7 @@
         "r": [
             "Georges",
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "cochlea",
@@ -496,8 +403,7 @@
             "Georges",
             "Gaffiot",
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "hiems",
@@ -524,8 +430,7 @@
         ],
         "r": [
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "Adaldagus",
@@ -545,8 +450,7 @@
         "d": [],
         "r": [
             "DMNES"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "Genava",
@@ -573,8 +477,7 @@
             "Lewis&Short",
             "Georges",
             "Gaffiot"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "Tokium",
@@ -596,8 +499,7 @@
         "d": [],
         "r": [
             "Chevin"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "polynomium",
@@ -617,39 +519,7 @@
             }
         ],
         "d": [],
-        "r": [],
-        "s": [
-            {
-                "s": "‘polynomium’:de Lacaille, N.-L. (1762). LECTIONES ELEMENTARES MATHEMATICAE SEU ELEMENTA ALGEBRAE ET GEOMETRIAE. Vienna:Trattner",
-                "l": "https://www.google.de/books/edition/Elementa_algebrae_et_geometriae/MrhJAAAAMAAJ?hl=de&gbpv=1&printsec=frontcover&bsq=%22polynomium%22"
-            }
-        ]
-    },
-    {
-        "l": "Beati pauperes spiritu:quoniam ipsorum est regnum caelorum.",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
-        "t": [
-            {
-                "e": [
-                    "Blessed are the poor in spirit, for theirs is the Kingdom of Heaven."
-                ],
-                "g": [
-                    "Selig sind die geistlich Armen, denn ihrer ist das Himmelreich."
-                ]
-            }
-        ],
-        "d": [],
-        "r": [],
-        "s": [
-            {
-                "s": "Vulgata:Mt 5:3",
-                "l": "https://www.biblegateway.com/passage/?search=Mt%205%3A3&version=VULGATE;KJ21;SCH1951&interface=print"
-            }
-        ]
+        "r": ["Lichtenberger"]
     },
     {
         "l": "corvus",
@@ -674,8 +544,7 @@
         "r": [
             "Lewis&Short",
             "Georges"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "os temporale",
@@ -697,35 +566,6 @@
         "d": [],
         "r": [
             "TA"
-        ],
-        "s": []
-    },
-    {
-        "l": "carbonatum calcii",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
-        "t": [
-            {
-                "e": [
-                    "calcium carbonate"
-                ],
-                "g": [
-                    "Kalziumkarbonat"
-                ]
-            }
-        ],
-        "d": [],
-        "r": [
-            "Vicipaedia"
-        ],
-        "s": [
-            {
-                "s": "Margulis, M. (1969). Sinonomia química, bioquímica y farmacéutica. La Farmacia Química",
-                "l": "https://www.google.de/books/edition/Sinonomia_qu%C3%ADmica_bioqu%C3%ADmica_y_farmac/fR5ZAAAAMAAJ?hl=en&gbpv=1&bsq=%22calcii%3A%20carbonato%20de%20calcio%22&dq=%22carbonatum%20calcii%22&printsec=frontcover"
-            }
         ]
     },
     {
@@ -752,8 +592,7 @@
         "r": [
             "Lewis&Short",
             "Georges"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "rubellus",
@@ -775,8 +614,7 @@
         "d": [],
         "r": [
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     },
     {
         "l": "rubellulus",
@@ -798,7 +636,6 @@
         "d": [],
         "r": [
             "Lewis&Short"
-        ],
-        "s": []
+        ]
     }
 ]
