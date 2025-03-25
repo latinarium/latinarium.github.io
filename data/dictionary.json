@@ -15,6 +15,22 @@
         "d": [],
         "r": []
     },
+    {
+        "l": "mare liberum",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "⇹ mare clausum",
+        "t": [
+            {
+                "e": ["free sea"],
+                "g": ["freies Meer"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers"]
+    },
      {
         "l": "birota montana",
         "f": "",
