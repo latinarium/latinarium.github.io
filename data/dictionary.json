@@ -15,6 +15,22 @@
         "d": [],
         "r": [""]
     },
+    {
+        "l": "immetallum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["nonmetal"],
+                "g": ["Nichtmetall"]
+            }
+        ],
+        "d": ["immetallicus"],
+        "r": ["Lichtenberger"]
+    },
      {
         "l": "zerum",
         "f": "-i",
