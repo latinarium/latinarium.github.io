@@ -15,6 +15,22 @@
         "d": [],
         "r": [""]
     },
+     {
+        "l": "zerum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["zero"],
+                "g": ["Null"]
+            }
+        ],
+        "d": ["zeroticus"],
+        "r": ["Deraedt&Licoppe", "Lichtenberger"]
+    },
     {
         "l": "clon",
         "f": "-onis",
