@@ -95,7 +95,3 @@ body:
         - PECS
         - Stowasser
         - Vicipaedia
-  - type: textarea
-    attributes:
-      label: Sources
-      description: "What are sources for the new entry, if any. (Not required if there are references)"
