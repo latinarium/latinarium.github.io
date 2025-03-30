@@ -8,12 +8,140 @@
         "e": "",
         "t": [
             {
-                "e": [],
-                "g": []
+                "e": [""],
+                "g": [""]
             }
         ],
         "d": [],
-        "r": []
+        "r": [""]
+    },
+    {
+        "l": "crepusculum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["dusk", "twilight"],
+                "g": ["Dämmerung", "Zwielicht"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
+        "l": "diluculum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["daybreak", "dawn"],
+                "g": ["Tagesanbruch", "Morgendämmerung"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
+        "l": "immetallum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["nonmetal"],
+                "g": ["Nichtmetall"]
+            }
+        ],
+        "d": ["immetallicus"],
+        "r": ["Lichtenberger"]
+    },
+     {
+        "l": "zerum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["zero"],
+                "g": ["Null"]
+            }
+        ],
+        "d": ["zeroticus"],
+        "r": ["Deraedt&Licoppe", "Lichtenberger"]
+    },
+    {
+        "l": "clon",
+        "f": "-onis",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["clone"],
+                "g": ["Klon"]
+            }
+        ],
+        "d": ["clonalis", "clonalitas", "clonare", "clonatio"],
+        "r": ["Deraedt&Licoppe", "Lichtenberger"]
+    },
+    {
+        "l": "liberum arbitrium",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["free will"],
+                "g": ["freier Wille"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers"]
+    },
+    {
+        "l": "ni fallor",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["if I'm not mistaken"],
+                "g": ["wenn ich mich nicht irre"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers"]
+    },
+    {
+        "l": "mare liberum",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "⇹ mare clausum",
+        "t": [
+            {
+                "e": ["free sea"],
+                "g": ["freies Meer"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers"]
     },
      {
         "l": "birota montana",
