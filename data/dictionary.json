@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "crepusculum",
+        "f": "-i",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["dusk", "twilight"],
+                "g": ["Dämmerung", "Zwielicht"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "diluculum",
         "f": "-i",
         "c": "n.",
