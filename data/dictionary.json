@@ -24,8 +24,8 @@
         "e": "",
         "t": [
             {
-                "e": ["dawn"],
-                "g": ["Morgendämmerung"]
+                "e": ["daybreak", "dawn"],
+                "g": ["Tagesanbruch", "Morgendämmerung"]
             }
         ],
         "d": [],
