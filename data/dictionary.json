@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "arcuballista",
+        "f": "-ae",
+        "c": "f.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["crossbow"],
+                "g": ["Armbrust"]
+            }
+        ],
+        "d": ["arcuballistarius"],
+        "r": ["Georges", "Gaffiot"]
+    },
+    {
         "l": "dies natalis",
         "f": "",
         "c": "",
