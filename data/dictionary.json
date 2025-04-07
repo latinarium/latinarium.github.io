@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "pugio",
+        "f": "-onis",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["dagger"],
+                "g": ["Dolch"]
+            }
+        ],
+        "d": ["pugiunculus"],
+        "r": ["Lewis&Short", "Gaffiot"]
+    },
+    {
         "l": "arcuballista",
         "f": "-ae",
         "c": "f.",
