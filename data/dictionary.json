@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "pugiunculus",
+        "f": "i",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "dem. < pugio",
+        "t": [
+            {
+                "e": ["small Dagger"],
+                "g": ["kleiner Dolch"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "pugio",
         "f": "-onis",
         "c": "m.",
