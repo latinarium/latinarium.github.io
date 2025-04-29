@@ -80,22 +80,6 @@
         "r": ["Lichtenberger", "Pierer"]
     },
     {
-        "l": "diluculo",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
-        "t": [
-            {
-                "e": ["at daybreak", "at dawn"],
-                "g": ["bei Tagesanbruch", "im Morgengrauen"]
-            }
-        ],
-        "d": [],
-        "r": ["Georges"]
-    },
-    {
         "l": "crepusculum",
         "f": "-i",
         "c": "n.",
