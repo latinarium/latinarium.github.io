@@ -16,6 +16,70 @@
         "r": [""]
     },
     {
+        "l": "pugiunculus",
+        "f": "i",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "dem. < pugio",
+        "t": [
+            {
+                "e": ["small Dagger"],
+                "g": ["kleiner Dolch"]
+            }
+        ],
+        "d": [],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
+        "l": "pugio",
+        "f": "-onis",
+        "c": "m.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["dagger"],
+                "g": ["Dolch"]
+            }
+        ],
+        "d": ["pugiunculus"],
+        "r": ["Lewis&Short", "Gaffiot"]
+    },
+    {
+        "l": "arcuballista",
+        "f": "-ae",
+        "c": "f.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["crossbow"],
+                "g": ["Armbrust"]
+            }
+        ],
+        "d": ["arcuballistarius"],
+        "r": ["Georges", "Gaffiot"]
+    },
+    {
+        "l": "dies natalis",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["birthday"],
+                "g": ["Geburtstag"]
+            }
+        ],
+        "d": [],
+        "r": ["Lichtenberger", "Pierer"]
+    },
+    {
         "l": "crepusculum",
         "f": "-i",
         "c": "n.",
