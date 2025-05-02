@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "vestiarius",
+        "f": "-a, -um",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "< vestis",
+        "t": [
+            {
+                "e": ["of or belonging to clothes"],
+                "g": ["zu Kleidung gehörig, Kleider-"]
+            }
+        ],
+        "d": [],
+        "r": ["Lewis&Short", "Georges"]
+    },
+    {
         "l": "pugiunculus",
         "f": "i",
         "c": "m.",
