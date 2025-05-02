@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "armarium vestiarium",
+        "f": "",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["wardrobe"],
+                "g": ["Kleiderschrank"]
+            }
+        ],
+        "d": [],
+        "r": ["Lichtenberger"]
+    },
+    {
         "l": "vestiarius",
         "f": "-a, -um",
         "c": "adj.",
