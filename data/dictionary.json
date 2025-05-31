@@ -16,6 +16,22 @@
         "r": [""]
     },
     {
+        "l": "dolabra",
+        "f": "-ae",
+        "c": "f.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["pickaxe"],
+                "g": ["Spitzhacke"]
+            }
+        ],
+        "d": [],
+        "r": ["Lewis&Short"]
+    },
+    {
         "l": "lapsus memoriae",
         "f": "",
         "c": "",
