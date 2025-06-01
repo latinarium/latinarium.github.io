@@ -16,6 +16,102 @@
         "r": [""]
     },
     {
+        "l": "dolabra",
+        "f": "-ae",
+        "c": "f.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["pickaxe"],
+                "g": ["Spitzhacke"]
+            }
+        ],
+        "d": [],
+        "r": ["Lewis&Short"]
+    },
+    {
+        "l": "lapsus memoriae",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["slip of memory"],
+                "g": ["Gedächtnisfehler"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers:Lapsus"]
+    },
+    {
+        "l": "lapsus linguae",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["slip of the tongue"],
+                "g": ["Versprecher"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers:Lapsus"]
+    },
+    {
+        "l": "lapsus calami",
+        "f": "",
+        "c": "",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["slip of the pen"],
+                "g": ["Schreibfehler"]
+            }
+        ],
+        "d": [],
+        "r": ["Meyers:Lapsus"]
+    },
+    {
+        "l": "armarium vestiarium",
+        "f": "",
+        "c": "n.",
+        "v": [],
+        "n": "",
+        "e": "",
+        "t": [
+            {
+                "e": ["wardrobe"],
+                "g": ["Kleiderschrank"]
+            }
+        ],
+        "d": [],
+        "r": ["Lichtenberger"]
+    },
+    {
+        "l": "vestiarius",
+        "f": "-a, -um",
+        "c": "adj.",
+        "v": [],
+        "n": "",
+        "e": "< vestis",
+        "t": [
+            {
+                "e": ["of or belonging to clothes"],
+                "g": ["zu Kleidung gehörig, Kleider-"]
+            }
+        ],
+        "d": [],
+        "r": ["Lewis&Short", "Georges"]
+    },
+    {
         "l": "pugiunculus",
         "f": "i",
         "c": "m.",
