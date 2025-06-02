@@ -1,176 +1,126 @@
 [
     {
-        "l": "",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "l": "", "c": "",
+        "t": [
+            {"e": "", "g": ""}
+        ],
+        "r": [""]
+    },
+    {
+        "l": "pomum terrestre",
+        "c": "n.",
         "t": [
             {
-                "e": [
-                    ""
-                ],
-                "g": [
-                    ""
-                ]
+                "e": "potato",
+                "g": "Kartoffel"
             }
         ],
-        "d": [],
         "r": [
-            ""
+            "PONS",
+            "Lichtenberger 'Kartoffel'"
         ]
     },
     {
-        "l": "",
-        "f": "",
+        "l": "eritis sicut Deus",
         "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    ""
-                ],
-                "g": [
-                    ""
-                ]
+                "e": "you will be like God (words of the serpent at the Fall, Genesis 3:5)",
+                "g": "ihr werdet sein wie Gott (Worte der Schlange beim Sündenfall, 1. Mose 3, 5)"
             }
         ],
-        "d": [],
         "r": [
-            ""
+            "Duden"
+        ]
+    },
+    {
+        "l": "lupus",
+        "c": "m.",
+        "t": [
+            {
+                "e": "wolf",
+                "g": "Wolf"
+            }
+        ],
+        "r": [
+            "Georges",
+            "Lewis&Short"
         ]
     },
     {
         "l": "dolabra",
-        "f": "-ae",
         "c": "f.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "pickaxe"
-                ],
-                "g": [
-                    "Spitzhacke"
-                ]
+                "e": "pickaxe",
+                "g": "Spitzhacke"
             }
         ],
-        "d": [],
         "r": [
             "Lewis&Short"
         ]
     },
     {
         "l": "lapsus memoriae",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "m.",
         "t": [
             {
-                "e": [
-                    "slip of memory"
-                ],
-                "g": [
-                    "Gedächtnisfehler"
-                ]
+                "e": "slip of memory",
+                "g": "Gedächtnisfehler"
             }
         ],
-        "d": [],
         "r": [
-            "Meyers:Lapsus"
+            "Meyers 'Lapsus'"
         ]
     },
     {
         "l": "lapsus linguae",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "m.",
         "t": [
             {
-                "e": [
-                    "slip of the tongue"
-                ],
-                "g": [
-                    "Versprecher"
-                ]
+                "e": "slip of the tongue",
+                "g": "Versprecher"
             }
         ],
-        "d": [],
         "r": [
-            "Meyers:Lapsus"
+            "Meyers 'Lapsus'"
         ]
     },
     {
         "l": "lapsus calami",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "m.",
         "t": [
             {
-                "e": [
-                    "slip of the pen"
-                ],
-                "g": [
-                    "Schreibfehler"
-                ]
+                "e": "slip of the pen",
+                "g": "Schreibfehler"
             }
         ],
-        "d": [],
         "r": [
-            "Meyers:Lapsus"
+            "Meyers 'Lapsus'"
         ]
     },
     {
         "l": "armarium vestiarium",
-        "f": "",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "wardrobe"
-                ],
-                "g": [
-                    "Kleiderschrank"
-                ]
+                "e": "wardrobe",
+                "g": "Kleiderschrank"
             }
         ],
-        "d": [],
         "r": [
-            "Lichtenberger"
+            "Lichtenberger: Kleiderschrank"
         ]
     },
     {
         "l": "vestiarius",
-        "f": "-a, -um",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "< vestis",
         "t": [
             {
-                "e": [
-                    "of or belonging to clothes"
-                ],
-                "g": [
-                    "zu Kleidung gehörig, Kleider-"
-                ]
+                "e": "of or belonging to clothes",
+                "g": "zu Kleidung gehörig, Kleider-"
             }
         ],
-        "d": [],
         "r": [
             "Lewis&Short",
             "Georges"
@@ -178,22 +128,13 @@
     },
     {
         "l": "pugiunculus",
-        "f": "i",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "dem. < pugio",
         "t": [
             {
-                "e": [
-                    "small Dagger"
-                ],
-                "g": [
-                    "kleiner Dolch"
-                ]
+                "e": "small Dagger",
+                "g": "kleiner Dolch"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
@@ -201,23 +142,12 @@
     },
     {
         "l": "pugio",
-        "f": "-onis",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "dagger"
-                ],
-                "g": [
-                    "Dolch"
-                ]
+                "e": "dagger",
+                "g": "Dolch"
             }
-        ],
-        "d": [
-            "pugiunculus"
         ],
         "r": [
             "Lewis&Short",
@@ -226,23 +156,12 @@
     },
     {
         "l": "arcuballista",
-        "f": "-ae",
         "c": "f.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "crossbow"
-                ],
-                "g": [
-                    "Armbrust"
-                ]
+                "e": "crossbow",
+                "g": "Armbrust"
             }
-        ],
-        "d": [
-            "arcuballistarius"
         ],
         "r": [
             "Georges",
@@ -251,47 +170,29 @@
     },
     {
         "l": "dies natalis",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "m.",
         "t": [
             {
-                "e": [
-                    "birthday"
-                ],
-                "g": [
-                    "Geburtstag"
-                ]
+                "e": "birthday",
+                "g": "Geburtstag"
             }
         ],
         "d": [],
         "r": [
-            "Lichtenberger",
+            "PONS",
+            "Lichtenberger 'Geburtstag'",
             "Pierer"
         ]
     },
     {
         "l": "crepusculum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "dusk",
-                    "twilight"
-                ],
-                "g": [
-                    "Dämmerung",
-                    "Zwielicht"
-                ]
+                "e": "dusk, twilight",
+                "g": "Dämmerung, Zwielicht"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
@@ -299,24 +200,13 @@
     },
     {
         "l": "diluculum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "daybreak",
-                    "dawn"
-                ],
-                "g": [
-                    "Tagesanbruch",
-                    "Morgendämmerung"
-                ]
+                "e": "dawn",
+                "g": "Morgendämmerung"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
@@ -324,233 +214,134 @@
     },
     {
         "l": "immetallum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "nonmetal"
-                ],
-                "g": [
-                    "Nichtmetall"
-                ]
+                "e": "nonmetal",
+                "g": "Nichtmetall"
             }
         ],
-        "d": [
-            "immetallicus"
-        ],
         "r": [
-            "Lichtenberger"
+            "Lichtenberger 'Nichtmetall'"
         ]
     },
     {
         "l": "zerum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "zero"
-                ],
-                "g": [
-                    "Null"
-                ]
+                "e": "zero",
+                "g": "Null"
             }
-        ],
-        "d": [
-            "zeroticus"
         ],
         "r": [
             "Deraedt&Licoppe",
-            "Lichtenberger"
+            "Lichtenberger 'Null'"
         ]
     },
     {
-        "l": "clon",
-        "f": "-onis",
+        "l": "clon, -onis",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "clone"
-                ],
-                "g": [
-                    "Klon"
-                ]
+                "e": "clone",
+                "g": "Klon"
             }
-        ],
-        "d": [
-            "clonalis",
-            "clonalitas",
-            "clonare",
-            "clonatio"
         ],
         "r": [
             "Deraedt&Licoppe",
-            "Lichtenberger"
+            "Lichtenberger 'Klon'"
         ]
     },
     {
         "l": "liberum arbitrium",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "n.",
         "t": [
             {
-                "e": [
-                    "free will"
-                ],
-                "g": [
-                    "freier Wille"
-                ]
+                "e": "free will",
+                "g": "freier Wille"
             }
         ],
-        "d": [],
         "r": [
             "Meyers"
         ]
     },
     {
         "l": "ni fallor",
-        "f": "",
         "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "if I'm not mistaken"
-                ],
-                "g": [
-                    "wenn ich mich nicht irre"
-                ]
+                "e": "if I'm not mistaken",
+                "g": "wenn ich mich nicht irre"
             }
         ],
-        "d": [],
         "r": [
             "Meyers"
         ]
     },
     {
         "l": "mare liberum",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "⇹ mare clausum",
+        "c": "n. (⇹ mare clausum)",
         "t": [
             {
-                "e": [
-                    "free sea"
-                ],
-                "g": [
-                    "freies Meer"
-                ]
+                "e": "free sea",
+                "g": "freies Meer"
             }
         ],
-        "d": [],
         "r": [
             "Meyers"
         ]
     },
     {
         "l": "birota montana",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "f.",
         "t": [
             {
-                "e": [
-                    "mountain bike"
-                ],
-                "g": [
-                    "Mountainbike"
-                ]
+                "e": "mountain bike",
+                "g": "Mountainbike"
             }
         ],
-        "d": [],
         "r": [
-            "LRL"
+            "LRL 'mountain bike'"
         ]
     },
     {
         "l": "alutare",
-        "f": "-o, -avi, -atum",
         "c": "v.",
-        "v": [],
-        "n": "",
-        "e": "< aluta",
         "t": [
             {
-                "e": [
-                    "to taw"
-                ],
-                "g": [
-                    "weißgerben"
-                ]
+                "e": "to taw",
+                "g": "weißgerben"
             }
         ],
-        "d": [],
         "r": [
             "Niermeyer",
             "Blaise"
         ]
     },
     {
-        "l": "ensiger",
-        "f": "-gera, -gerum",
+        "l": "ensiger, -gera, -gerum",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "< ensis + -ger",
         "t": [
             {
-                "e": [
-                    "sword-bearing"
-                ],
-                "g": [
-                    "Schwert führend"
-                ]
+                "e": "sword-bearing",
+                "g": "Schwert führend"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
         ]
     },
     {
-        "l": "ensifer",
-        "f": "-fera, -ferum",
+        "l": "ensifer, -fera, -ferum",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "sword-bearing"
-                ],
-                "g": [
-                    "Schwert tragend"
-                ]
+                "e": "sword-bearing",
+                "g": "Schwert tragend"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
@@ -558,22 +349,13 @@
     },
     {
         "l": "ensiculus",
-        "f": "-i",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "< ensis",
         "t": [
             {
-                "e": [
-                    "little sword"
-                ],
-                "g": [
-                    "kleines Schwert"
-                ]
+                "e": "little sword",
+                "g": "kleines Schwert"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
@@ -581,25 +363,12 @@
     },
     {
         "l": "ensis",
-        "f": "-is",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "sword"
-                ],
-                "g": [
-                    "Schwert"
-                ]
+                "e": "sword",
+                "g": "Schwert"
             }
-        ],
-        "d": [
-            "ensiculus",
-            "ensifer",
-            "ensiger"
         ],
         "r": [
             "Georges",
@@ -608,22 +377,13 @@
     },
     {
         "l": "registrum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "register"
-                ],
-                "g": [
-                    "Register"
-                ]
+                "e": "register",
+                "g": "Register"
             }
         ],
-        "d": [],
         "r": [
             "Blaise",
             "DMLBS",
@@ -632,92 +392,52 @@
     },
     {
         "l": "Monacum",
-        "f": "-i",
         "c": "n.",
-        "v": [
-            "Monachium"
-        ],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "Munich"
-                ],
-                "g": [
-                    "München"
-                ]
+                "e": "Munich",
+                "g": "München"
             }
         ],
-        "d": [],
         "r": [
             "Blaise"
         ]
     },
     {
         "l": "Monacensis",
-        "f": "-e",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "of or from Munich"
-                ],
-                "g": [
-                    "von oder aus München"
-                ]
+                "e": "of or from Munich",
+                "g": "von oder aus München"
             }
         ],
-        "d": [],
         "r": [
             "Blaise"
         ]
     },
     {
         "l": "dosis",
-        "f": "-is",
         "c": "f.",
-        "v": [],
-        "n": "",
-        "e": "< Gr. δόσις",
         "t": [
             {
-                "e": [
-                    "dose"
-                ],
-                "g": [
-                    "Dosis"
-                ]
+                "e": "dose",
+                "g": "Dosis"
             }
         ],
-        "d": [],
         "r": [
             "DMLBS",
             "MLW"
         ]
     },
     {
-        "l": "acer",
-        "f": "-eris",
+        "l": "acer, -eris",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "maple-tree"
-                ],
-                "g": [
-                    "Ahornbaum"
-                ]
+                "e": "maple",
+                "g": "Ahorn"
             }
-        ],
-        "d": [
-            "acernus"
         ],
         "r": [
             "Georges",
@@ -726,23 +446,12 @@
     },
     {
         "l": "ligustrum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "privet"
-                ],
-                "g": [
-                    "Liguster"
-                ]
+                "e": "privet",
+                "g": "Liguster"
             }
-        ],
-        "d": [
-            "ligustrinus"
         ],
         "r": [
             "Georges",
@@ -751,47 +460,25 @@
     },
     {
         "l": "Cruciniacum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "Bad Kreuznach"
-                ],
-                "g": []
+                "e": "Bad Kreuznach",
+                "g": ""
             }
         ],
-        "d": [],
         "r": [
             "PECS"
         ]
     },
     {
-        "l": "holus",
-        "f": "-eris",
+        "l": "holus, -eris",
         "c": "n.",
-        "v": [
-            "olus"
-        ],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "vegetable"
-                ],
-                "g": [
-                    "Gemüse"
-                ]
+                "e": "vegetable (sometimes spelled 'olus', without the h)",
+                "g": "Gemüse (manchmal 'olus', ohne h am Anfang geschrieben)"
             }
-        ],
-        "d": [
-            "holitor",
-            "holitrix",
-            "holusculum"
         ],
         "r": [
             "Lewis&Short",
@@ -800,93 +487,53 @@
     },
     {
         "l": "taware",
-        "f": "-o, -avi, -atum",
         "c": "v.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "to taw"
-                ],
-                "g": [
-                    "weißgerben"
-                ]
+                "e": "to taw",
+                "g": "weißgerben"
             }
         ],
-        "d": [],
         "r": [
             "DMLBS"
         ]
     },
     {
         "l": "Turicum",
-        "f": "-i",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "Zurich"
-                ],
-                "g": [
-                    "Zürich"
-                ]
+                "e": "Zurich",
+                "g": "Zürich"
             }
-        ],
-        "d": [
-            "Turicensis"
         ],
         "r": [
             "Chevin",
-            "Orbis latinus"
+            "Orbis Latinus"
         ]
     },
     {
         "l": "sella rotalis",
-        "f": "",
-        "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
+        "c": "f.",
         "t": [
             {
-                "e": [
-                    "wheelchair"
-                ],
-                "g": [
-                    "Rollstuhl"
-                ]
+                "e": "wheelchair",
+                "g": "Rollstuhl"
             }
         ],
-        "d": [],
         "r": [
             "PONS"
         ]
     },
     {
         "l": "cochleola",
-        "f": "-ae",
         "c": "f.",
-        "v": [
-            "cocleola"
-        ],
-        "n": "< cochlea",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "small snail"
-                ],
-                "g": [
-                    "kleine Schnecke"
-                ]
+                "e": "small snail",
+                "g": "kleine Schnecke"
             }
         ],
-        "d": [],
         "r": [
             "Georges",
             "Lewis&Short"
@@ -894,28 +541,12 @@
     },
     {
         "l": "cochlea",
-        "f": "-ae",
         "c": "f.",
-        "v": [
-            "coclea"
-        ],
-        "n": "",
-        "e": "< gr. κοχλίας",
         "t": [
             {
-                "e": [
-                    "snail"
-                ],
-                "g": [
-                    "Schnecke"
-                ]
+                "e": "snail",
+                "g": "Schnecke"
             }
-        ],
-        "d": [
-            "cochleatus",
-            "cochleola",
-            "cochleatim",
-            "cochlearium"
         ],
         "r": [
             "Georges",
@@ -924,27 +555,13 @@
         ]
     },
     {
-        "l": "hiems",
-        "f": "-emis",
+        "l": "hiems, hiemis",
         "c": "f.",
-        "v": [
-            "hiemps"
-        ],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "winter"
-                ],
-                "g": [
-                    "Winter"
-                ]
+                "e": "winter",
+                "g": "Winter"
             }
-        ],
-        "d": [
-            "hiemalis",
-            "hiemare"
         ],
         "r": [
             "Lewis&Short"
@@ -952,45 +569,26 @@
     },
     {
         "l": "Adaldagus",
-        "f": "-i",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "Adaldag"
-                ],
-                "g": []
+                "e": "Adaldag",
+                "g": ""
             }
         ],
-        "d": [],
         "r": [
             "DMNES"
         ]
     },
     {
         "l": "Genava",
-        "f": "-ae",
         "c": "f.",
-        "v": [
-            "Geneva",
-            "Genna"
-        ],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "Geneva"
-                ],
-                "g": [
-                    "Genf"
-                ]
+                "e": "Geneva",
+                "g": "Genf"
             }
         ],
-        "d": [],
         "r": [
             "Lewis&Short",
             "Georges",
@@ -999,67 +597,38 @@
     },
     {
         "l": "Tokium",
-        "f": "-ii",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "Tokyo"
-                ],
-                "g": [
-                    "Tokio"
-                ]
+                "e": "Tokyo",
+                "g": "Tokio"
             }
         ],
-        "d": [],
         "r": [
             "Chevin"
         ]
     },
     {
         "l": "polynomium",
-        "f": "-ii",
         "c": "n.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "polynomial"
-                ],
-                "g": [
-                    "Polynom"
-                ]
+                "e": "polynomial",
+                "g": "Polynom"
             }
         ],
-        "d": [],
         "r": [
             "Lichtenberger"
         ]
     },
     {
         "l": "corvus",
-        "f": "-i",
         "c": "m.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "raven"
-                ],
-                "g": [
-                    "Rabe"
-                ]
+                "e": "raven",
+                "g": "Rabe"
             }
-        ],
-        "d": [
-            "corvinus"
         ],
         "r": [
             "Lewis&Short",
@@ -1068,46 +637,25 @@
     },
     {
         "l": "os temporale",
-        "f": "",
         "c": "",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "temporal bone"
-                ],
-                "g": [
-                    "Schläfenbein"
-                ]
+                "e": "temporal bone",
+                "g": "Schläfenbein"
             }
         ],
-        "d": [],
         "r": [
             "TA"
         ]
     },
     {
         "l": "ruber",
-        "f": "-bra, -brum",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "",
         "t": [
             {
-                "e": [
-                    "red"
-                ],
-                "g": [
-                    "rot"
-                ]
+                "e": "red",
+                "g": "rot"
             }
-        ],
-        "d": [
-            "rubellus",
-            "rubellulus"
         ],
         "r": [
             "Lewis&Short",
@@ -1116,44 +664,26 @@
     },
     {
         "l": "rubellus",
-        "f": "-a, -um",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "< ruber",
         "t": [
             {
-                "e": [
-                    "reddish"
-                ],
-                "g": [
-                    "rötlich"
-                ]
+                "e": "reddish",
+                "g": "rötlich"
             }
         ],
-        "d": [],
         "r": [
             "Lewis&Short"
         ]
     },
     {
-        "l": "rubellulus",
-        "f": "-a, -um",
+        "l": "rubellulus, -a, -um",
         "c": "adj.",
-        "v": [],
-        "n": "",
-        "e": "< rubellus",
         "t": [
             {
-                "e": [
-                    "a little reddish"
-                ],
-                "g": [
-                    "ein wenig rötlich"
-                ]
+                "e": "a little reddish",
+                "g": "ein wenig rötlich"
             }
         ],
-        "d": [],
         "r": [
             "Lewis&Short"
         ]
