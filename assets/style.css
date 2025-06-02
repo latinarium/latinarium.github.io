@@ -8,14 +8,6 @@
     }
 }
 
-.noto-serif {
-    font-family: "Noto Serif", serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
-}
-
 /* Fills all the space between header & footer */
 body {
     display: flex;
@@ -86,43 +78,41 @@ b {
 }
 
 #contentDiv {
-    font-size: 17.5px;
-    font-weight: 435;
+    /*font-size: 17.5px;
+    font-weight: 435;*/
+}
+
+.result-card {
+    font-family: sans-serif;
+    color: rgb(32, 33, 34);
+    line-height: 30px;
+    max-width: 500px;
+    font-size: 20px;
+    /*border-left: 2px solid rgb(36, 59, 94);*/
 }
 
 .result-div {
     box-shadow: 0 0 1px rgba(0, 0, 0, .08), 0 1px 2px rgba(0, 0, 0, .24);
     padding: 10px;
-    font-size: 17.5px;
+    font-size: 20px;
     border-left: 2px solid rgb(36, 59, 94);
-    color: black;
+    font-family: sans-serif;
+    color:
+        /*black*/
+        rgb(32, 33, 34);
+    line-height: 30px;
+    max-width: 500px;
 }
 
-.result-table {
-    margin-bottom: 0;
-    /*max-width: 50%;*/
-    /*width: auto;*/
+td {
+    color: rgb(32, 33, 34) !important;
 }
 
-.sources-link {
-    color: var(--bs-body-color) !important;
-}
-
-.translation-td {
-    padding-left: 0 !important;
-    padding-right: 30px !important;
-    padding-top: 2px !important;
-    padding-bottom: 2px !important;
-    font-style: italic;
-    word-break: break-word;
-}
-
-.references-u,
-.references-td {
-    color: black !important;
-    text-decoration: underline;
-    text-decoration-style: solid;
-    text-decoration-thickness: 2.3px;
+.references {
+    margin-right: 30px;
+    font-size: medium;
+    color: var(--bs-secondary-color);
+    white-space: nowrap;
 }
 
 .footer-seperator {
@@ -133,4 +123,25 @@ b {
     height: 0.1px;
     /*width: 310px;*/
     opacity: 0.1;
+}
+
+/* -----------*/
+
+.translation-td {
+    padding-left: 0 !important;
+    padding-right: 30px !important;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    font-style: italic;
+    word-break: break-word;
+}
+
+.result-table {
+    margin-bottom: 0;
+    /*max-width: 50%;*/
+    /*width: auto;*/
+}
+
+.sources-link {
+    color: var(--bs-body-color) !important;
 }
