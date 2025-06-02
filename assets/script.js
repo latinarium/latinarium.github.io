@@ -75,7 +75,6 @@ if (query != null) {
                 //content = content.substring(0, content.length - 4);
             }
             if (matches[i].r.length > 0) {
-                content += " "
                 for (var j = 0; j < matches[i].r.length; j++) {
                     content += "<span class=\"references\">" + matches[i].r[j] + "</span>";
                 }
