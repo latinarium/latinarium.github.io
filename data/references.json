@@ -123,5 +123,10 @@
         "r": "Vicipaedia",
         "c": "Vicipaedia.",
         "l": "https://la.wikipedia.org/"
+    },
+    {
+        "r": "WP",
+        "c": "Wikipedia.",
+        "l": "https://en.wikipedia.org/"
     }
 ]
