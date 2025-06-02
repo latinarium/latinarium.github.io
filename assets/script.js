@@ -69,7 +69,7 @@ if (query != null) {
             if (matches[i].t.length > 0) {
                 content += "<table class=\"table\"><tbody>"
                 for (var j = 0; j < matches[i].t.length; j++) {
-                    content += "<tr><td class=\"ps-0\">" + matches[i].t[j].e + "</td><td class=\"pe-0\">" + matches[i].t[j].g + "<tr>";
+                    content += "<tr><td class=\"ps-0\">" + matches[i].t[j].e + "</td><td class=\"pe-0\">" + matches[i].t[j].g + "</tr>";
                 }
                 content += "</tbody></table>"
                 //content = content.substring(0, content.length - 4);
@@ -79,7 +79,6 @@ if (query != null) {
                 for (var j = 0; j < matches[i].r.length; j++) {
                     content += "<span class=\"references\">" + matches[i].r[j] + "</span>";
                 }
-                content = content.substring(0, content.length - 3);
                 content += "<br>";
             }
 
