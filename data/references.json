@@ -9,10 +9,15 @@
         "c": "Chevin, A. (1897). Dictionnaire latin-français des noms propres de lieux. Paris",
         "l": "https://www.google.de/books/edition/Dictionnaire_latin_fran%C3%A7ais_des_noms_pr/IyYZU2T7qZsC?hl=en&gbpv=1&pg=PP9&printsec=frontcover"
     },
-     {
+    {
         "r": "Deraedt&Licoppe",
         "c": "Deraedt, F., & Licoppe, G. (2002). Calepinus Novus. Vocabularium linguae Latinae hodiernum. Latino–Francogallicum. Brussels: Fundatio Melissa/Musée de la Maison d’Érasme.",
         "l": ""
+    },
+    {
+        "r": "Duden",
+        "c": "Dudenredaktion. (o. J.). Duden online.",
+        "l": "https://www.duden.de/"
     },
     {
         "r": "DMLBS",
@@ -118,5 +123,10 @@
         "r": "Vicipaedia",
         "c": "Vicipaedia.",
         "l": "https://la.wikipedia.org/"
+    },
+    {
+        "r": "WP",
+        "c": "Wikipedia.",
+        "l": "https://en.wikipedia.org/"
     }
 ]
