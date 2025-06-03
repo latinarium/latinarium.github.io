@@ -7,6 +7,20 @@
         "r": [""]
     },
     {
+        "l": "obscure", "c": "adv.",
+        "t": [
+            {"e": "darkly", "g": "dunkel"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
+        "l": "obscurus", "c": "adj.",
+        "t": [
+            {"e": "dark", "g": "dunkel"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
         "l": "ribosoma, -atis", "c": "n.",
         "t": [
             {"e": "ribosome", "g": "Ribosom"}
