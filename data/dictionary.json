@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "nonnumquam", "c": "adv.",
+        "t": [
+            {"e": "sometimes", "g": "manchmal"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
         "l": "aliquoties", "c": "adv.",
         "t": [
             {"e": "several times", "g": "einige Male"}
