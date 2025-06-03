@@ -138,5 +138,10 @@
         "r": "WP",
         "c": "Wikipedia.",
         "l": "https://en.wikipedia.org/"
+    },
+    {
+        "r": "WT",
+        "c": "Wiktionary.",
+        "l": "https://en.wiktionary.org/"
     }
 ]
