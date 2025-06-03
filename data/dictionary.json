@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "compluriens", "c": "adv.",
+        "t": [
+            {"e": "several times", "g": "mehrmals"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "nonnumquam", "c": "adv.",
         "t": [
             {"e": "sometimes", "g": "manchmal"}
