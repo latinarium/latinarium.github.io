@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "ribosoma, -atis", "c": "n.",
+        "t": [
+            {"e": "ribosome", "g": "Ribosom"}
+        ],
+        "r": ["TH", "VP 'Ribosoma'"]
+    },
+    {
         "l": "multoties", "c": "adv.",
         "t": [
             {"e": "many times", "g": "viele Male"}
