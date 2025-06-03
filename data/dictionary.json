@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "multoties", "c": "adv.",
+        "t": [
+            {"e": "many times", "g": "viele Male"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
         "l": "compluriens", "c": "adv.",
         "t": [
             {"e": "several times", "g": "mehrmals"}
