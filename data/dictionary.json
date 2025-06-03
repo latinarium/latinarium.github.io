@@ -465,8 +465,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Munich",
-                "g": "München"
+                "e": "Munich (a city in Germany)",
+                "g": "München (eine Stadt in Deutschland)"
             }
         ],
         "r": [
@@ -533,8 +533,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Bad Kreuznach",
-                "g": ""
+                "e": "Bad Kreuznach (a city in Germany)",
+                "g": "(eine Stadt in Deutschland)"
             }
         ],
         "r": [
@@ -573,8 +573,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Zurich",
-                "g": "Zürich"
+                "e": "Zurich (a city in Switzerland)",
+                "g": "Zürich (eine Stadt in der Schweiz)"
             }
         ],
         "r": [
@@ -642,12 +642,12 @@
         "c": "m.",
         "t": [
             {
-                "e": "Adaldag",
-                "g": ""
+                "e": "Adaldag (a male given name)",
+                "g": "(ein männlicher Vorname)"
             }
         ],
         "r": [
-            "DMNES"
+            "DMNES 'Adaldag'"
         ]
     },
     {
@@ -655,8 +655,8 @@
         "c": "f.",
         "t": [
             {
-                "e": "Geneva",
-                "g": "Genf"
+                "e": "Geneva (a city in Switzerland)",
+                "g": "Genf (eine Stadt in der Schweiz)"
             }
         ],
         "r": [
@@ -670,8 +670,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Tokyo",
-                "g": "Tokio"
+                "e": "Tokyo (a prefecture, the capital and largest city of Japan)",
+                "g": "Tokio (eine Präfektur, die Hauptstadt und größte Stadt Japans)"
             }
         ],
         "r": [
