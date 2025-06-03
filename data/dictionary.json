@@ -7,6 +7,76 @@
         "r": [""]
     },
     {
+        "l": "Karolus", "c": "m.",
+        "t": [
+            {"e": "→ Carolus", "g": ""}
+        ],
+        "r": ["DMNES 'Charles'"]
+    },
+    {
+        "l": "Carolus", "c": "m.",
+        "t": [
+            {"e": "Charles (a male given name)", "g": "Karl (ein männlicher Vorname)"}
+        ],
+        "r": ["WT", "DMNES 'Charles'"]
+    },
+    {
+        "l": "obscure", "c": "adv.",
+        "t": [
+            {"e": "darkly", "g": "dunkel"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
+        "l": "obscurus", "c": "adj.",
+        "t": [
+            {"e": "dark", "g": "dunkel"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
+        "l": "ribosoma, -atis", "c": "n.",
+        "t": [
+            {"e": "ribosome", "g": "Ribosom"}
+        ],
+        "r": ["TH", "VP 'Ribosoma'"]
+    },
+    {
+        "l": "multoties", "c": "adv.",
+        "t": [
+            {"e": "many times", "g": "viele Male"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
+        "l": "compluries", "c": "adv.",
+        "t": [
+            {"e": "several times", "g": "mehrmals"}
+        ],
+        "r": ["Lewis&Short 'compluriens'", "Kleiner Georges 'oft'"]
+    },
+    {
+        "l": "nonnumquam", "c": "adv.",
+        "t": [
+            {"e": "sometimes", "g": "manchmal"}
+        ],
+        "r": ["Lewis&Short"]
+    },
+    {
+        "l": "aliquoties", "c": "adv.",
+        "t": [
+            {"e": "several times", "g": "einige Male"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+     {
+        "l": "paucies", "c": "adv.",
+        "t": [
+            {"e": "a few times", "g": "wenige Male"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "pomum terrestre",
         "c": "n.",
         "t": [
@@ -395,8 +465,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Munich",
-                "g": "München"
+                "e": "Munich (a city in Germany)",
+                "g": "München (eine Stadt in Deutschland)"
             }
         ],
         "r": [
@@ -463,8 +533,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Bad Kreuznach",
-                "g": ""
+                "e": "Bad Kreuznach (a city in Germany)",
+                "g": "(eine Stadt in Deutschland)"
             }
         ],
         "r": [
@@ -503,8 +573,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Zurich",
-                "g": "Zürich"
+                "e": "Zurich (a city in Switzerland)",
+                "g": "Zürich (eine Stadt in der Schweiz)"
             }
         ],
         "r": [
@@ -572,12 +642,12 @@
         "c": "m.",
         "t": [
             {
-                "e": "Adaldag",
-                "g": ""
+                "e": "Adaldag (a male given name)",
+                "g": "(ein männlicher Vorname)"
             }
         ],
         "r": [
-            "DMNES"
+            "DMNES 'Adaldag'"
         ]
     },
     {
@@ -585,8 +655,8 @@
         "c": "f.",
         "t": [
             {
-                "e": "Geneva",
-                "g": "Genf"
+                "e": "Geneva (a city in Switzerland)",
+                "g": "Genf (eine Stadt in der Schweiz)"
             }
         ],
         "r": [
@@ -600,8 +670,8 @@
         "c": "n.",
         "t": [
             {
-                "e": "Tokyo",
-                "g": "Tokio"
+                "e": "Tokyo (a prefecture, the capital and largest city of Japan)",
+                "g": "Tokio (eine Präfektur, die Hauptstadt und größte Stadt Japans)"
             }
         ],
         "r": [
