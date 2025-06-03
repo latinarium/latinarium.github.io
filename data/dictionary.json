@@ -7,6 +7,20 @@
         "r": [""]
     },
     {
+        "l": "Karolus", "c": "m.",
+        "t": [
+            {"e": "→ Carolus", "g": ""}
+        ],
+        "r": ["DMNES 'Charles'"]
+    },
+    {
+        "l": "Carolus", "c": "m.",
+        "t": [
+            {"e": "Charles (a male given name)", "g": "Karl (ein männlicher Vorname)"}
+        ],
+        "r": ["WT", "DMNES 'Charles'"]
+    },
+    {
         "l": "obscure", "c": "adv.",
         "t": [
             {"e": "darkly", "g": "dunkel"}
