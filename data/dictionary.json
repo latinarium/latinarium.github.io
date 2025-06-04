@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "cista", "c": "f.",
+        "t": [
+            {"e": "box", "g": "Kiste"}
+        ],
+        "r": ["PONS", "Lewis&Short"]
+    },
+    {
         "l": "Karolus", "c": "m.",
         "t": [
             {"e": "→ Carolus", "g": ""}
