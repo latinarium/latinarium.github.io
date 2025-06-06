@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "acidum oxalicum", "c": "n.",
+        "t": [
+            {"e": "oxalic acid (the simplest dicarboxylic acid)", "g": "Oxalsäure (die einfachste Dicarbonsäure)"}
+        ],
+        "r": ["Vicipaedia", "Lichtenberger 'Oxalsäure'"]
+    },
+    {
         "l": "corbis", "c": "m./f.",
         "t": [
             {"e": "basket", "g": "Korb"}
