@@ -7,6 +7,20 @@
         "r": [""]
     },
     {
+        "l": "sepulcretum", "c": "n.",
+        "t": [
+            {"e": "cemetery", "g": "Friedhof"}
+        ],
+        "r": ["Gaffiot", "Lewis&Short", "PONS"]
+    },
+    {
+        "l": "coemeterium", "c": "n.",
+        "t": [
+            {"e": "cemetery", "g": "Friedhof"}
+        ],
+        "r": ["Gaffiot", "Lewis&Short"]
+    },
+    {
         "l": "permutatio Columbiana", "c": "f.",
         "t": [
             {"e": "Columbian exchange", "g": "Kolumbus-Effekt"}
