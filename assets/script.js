@@ -101,9 +101,15 @@ if (query != null) {
     content += "</table>";
     contentDiv.innerHTML = content;
 } else {
-    var content = "<h3>About</h3>Latinarium is a Latin dictionary with English and German translations under way of development. Users should take into account that some functions do not yet work satisfactorily. This dictionary is being developed by a community on Github. The project uses free and open software and is non-commercial. You are welcome to contribute to the <a target=\"_blank\" href=\"https://github.com/latinarium/latinarium.github.io\">repository</a>.";
-    content += "<br><br>For advice on how to read and use this dictionary see <a href=\"?page=info\">Help</a>.";
-    content += "<br><br><h3>Updates</h3><b>3/21/2025</b> Initial version released.";
+    var content = "";
+    content += "<table class=\"table table-borderless\"><tbody>";
+    content += "<tr><td><b>Latinarium</b> is a Latin dictionary with English and German translations under way of development. Users should take into account that some functions do not yet work satisfactorily.</td>"
+    content += "<td><b>Latinarium</b> ist ein lateinisches Wörterbuch mit englischen und deutschen Übersetzungen, das sich in der Entwicklung befindet. Bitte beachten Sie, dass einige Funktionen noch nicht zufriedenstellend funktionieren.</td></tr>"
+    content += "<tr><td>This dictionary is being developed by a community on Github. You are welcome to contribute to the <a target=\"_blank\" href=\"https://github.com/latinarium/latinarium.github.io\">repository</a>.</td>"
+    content += "<td>Dieses Wörterbuch wird von einer Community auf GitHub entwickelt. Sie sind herzlich dazu eingeladen, zum <a target=\"_blank\" href=\"https://github.com/latinarium/latinarium.github.io\">Repository</a> beizutragen.</td></tr>"
+    content += "<tr><td>For advice on how to read and use this dictionary see <a href=\"?page=help\">Help</a>.</td>"
+    content += "<td>Hinweise zum Verwenden dieses Wörterbuchs finden Sie in der <a href=\"?page=help\">Hilfe</a>.</td></tr>"
+    content += "</tr></tbody></table>";
     contentDiv.innerHTML = content;
 }
 
