@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "chalybs, -ybis", "c": "m.",
+        "t": [
+            {"e": "steel", "g": "Stahl"}
+        ],
+        "r": ["Lewis&Short", "PONS"]
+    },
+    {
         "l": "sepulcretum", "c": "n.",
         "t": [
             {"e": "cemetery", "g": "Friedhof"}
