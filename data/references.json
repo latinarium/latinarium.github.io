@@ -1,5 +1,10 @@
 [
     {
+        "r": "Anthon",
+        "c": "Anthon, E. F. (1861). Handwörterbuch der chemisch-pharmazeutischen, technisch-chemischen und pharmakognostischen Nomenklaturen. Weimar.",
+        "l": "https://www.google.de/books/edition/Handw%C3%B6rterbuch_der_chemisch_pharmazeuti/nxSBywyqMBQC?hl=en&gbpv=1&pg=PP7&printsec=frontcover"
+    },
+    {
         "r": "Blaise",
         "c": "Blaise, A. (1954). Dictionnaire latin-français des auteurs chrétiens. Brepols.",
         "l": ""
@@ -48,6 +53,11 @@
         "r": "Hoven",
         "c": "Hoven, R. (2006). Lexique de la prose latine de la Renaissance - Dictionary of Renaissance Latin from prose sources. 2 ed., Leiden: Brill",
         "l": "https://brill.com/display/title/11415"
+    },
+    {
+        "r": "Hunnius",
+        "c": "Hunnius, C. (2021). Hunnius Pharmazeutisches Wörterbuch. De Gruyter",
+        "l": "https://www.google.de/books/edition/_/6oWtEAAAQBAJ?hl=en&gbpv=0"
     },
     {
         "r": "Kleiner Georges",
