@@ -7,6 +7,20 @@
         "r": [""]
     },
     {
+        "l": "oryza", "c": "f.",
+        "t": [
+            {"e": "rice", "g": "Reis"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
+        "l": "triticum", "c": "n.",
+        "t": [
+            {"e": "wheat", "g": "Weizen"}
+        ],
+        "r": ["Lewis&Short", "Georges"]
+    },
+    {
         "l": "chalybs, -ybis", "c": "m.",
         "t": [
             {"e": "steel", "g": "Stahl"}
@@ -67,7 +81,7 @@
         "t": [
             {"e": "Charles (a male given name)", "g": "Karl (ein männlicher Vorname)"}
         ],
-        "r": ["WT", "DMNES 'Charles'"]
+        "r": ["Wiktionary", "DMNES 'Charles'"]
     },
     {
         "l": "obscure", "c": "adv.",
@@ -88,7 +102,7 @@
         "t": [
             {"e": "ribosome", "g": "Ribosom"}
         ],
-        "r": ["TH", "VP 'Ribosoma'"]
+        "r": ["TH", "Vicipaedia 'Ribosoma'"]
     },
     {
         "l": "multoties", "c": "adv.",
@@ -250,7 +264,7 @@
         "c": "m.",
         "t": [
             {
-                "e": "small Dagger",
+                "e": "small dagger",
                 "g": "kleiner Dolch"
             }
         ],
