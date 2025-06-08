@@ -145,12 +145,12 @@
         "l": "https://la.wikipedia.org/"
     },
     {
-        "r": "WP",
+        "r": "Wikipedia",
         "c": "Wikipedia.",
         "l": "https://en.wikipedia.org/"
     },
     {
-        "r": "WT",
+        "r": "Wiktionary",
         "c": "Wiktionary.",
         "l": "https://en.wiktionary.org/"
     }
