@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "rota", "c": "f.",
+        "t": [
+            {"e": "wheel", "g": "Rad"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "oryza", "c": "f.",
         "t": [
             {"e": "rice", "g": "Reis"}
