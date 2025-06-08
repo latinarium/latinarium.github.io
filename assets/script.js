@@ -87,8 +87,9 @@ if (query != null) {
     }
     contentDiv.innerHTML = content;
 } else if (page == "help") {
-    var content = "<img src=\"assets/help-entry.png\" class=\"img-fluid\">";
-    contentDiv.innerHTML = content;
+    const helpTextResponse = await fetch("/assets/help.html");
+    const helpText = await helpTextResponse.text();
+    contentDiv.innerHTML = helpText;
 } else if (page == "references") {
     var content = "<table class=\"table table-hover table-borderless\">";
     for (var i = 0; i < references.length; i++) {
