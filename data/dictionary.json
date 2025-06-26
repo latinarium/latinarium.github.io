@@ -7,6 +7,20 @@
         "r": [""]
     },
     {
+        "l": "hamulus", "c": "m.",
+        "t": [
+            {"e": "small hook", "g": "Häkchen"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
+        "l": "hamus", "c": "m.",
+        "t": [
+            {"e": "hook", "g": "Haken"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "rota", "c": "f.",
         "t": [
             {"e": "wheel", "g": "Rad"}
