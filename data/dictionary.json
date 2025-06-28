@@ -7,6 +7,20 @@
         "r": [""]
     },
     {
+        "l": "avunculus", "c": "m.",
+        "t": [
+            {"e": "maternal uncle", "g": "Onkel (mütterlicherseits)"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
+        "l": "patruus", "c": "m.",
+        "t": [
+            {"e": "paternal uncle", "g": "Onkel (väterlicherseits)"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "pallidus", "c": "adj.",
         "t": [
             {"e": "pale, pallid", "g": "blass, bleich"}
