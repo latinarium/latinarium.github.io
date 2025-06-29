@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "pistor", "c": "m.",
+        "t": [
+            {"e": "baker", "g": "Bäcker"}
+        ],
+        "r": ["Pons", "Lewis&Short"]
+    },
+    {
         "l": "emunctae naris", "c": "",
         "t": [
             {"e": "of sharp powers of observation (literally 'of a clean nose')", "g": "von scharfer Beobachtungsgabe (wörtlich 'von geschnäuzter Nase')"}
