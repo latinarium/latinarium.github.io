@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "naris", "c": "f.",
+        "t": [
+            {"e": "nostril (in Pl. = nose)", "g": "Nasenloch, Nüster (im Plural = Nase)"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "nasus", "c": "m.",
         "t": [
             {"e": "nose", "g": "Nase"}
