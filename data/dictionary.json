@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "nasus", "c": "m.",
+        "t": [
+            {"e": "nose", "g": "Nase"}
+        ],
+        "r": ["Georges", "Lewis&Short"]
+    },
+    {
         "l": "avunculus", "c": "m.",
         "t": [
             {"e": "maternal uncle", "g": "Onkel (mütterlicherseits)"}
