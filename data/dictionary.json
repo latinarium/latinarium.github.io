@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "balco", "c": "m.",
+        "t": [
+            {"e": "balcony", "g": "Balkon"}
+        ],
+        "r": ["Blaise", "MLW"]
+    },
+    {
         "l": "pistrina", "c": "f.",
         "t": [
             {"e": "bakery", "g": "Bäckerei"}
