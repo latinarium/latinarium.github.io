@@ -7,6 +7,13 @@
         "r": [""]
     },
     {
+        "l": "tempura", "c": "f.",
+        "t": [
+            {"e": "tempura (a Japanese dish)", "g": "Tempura (ein japanisches Gericht)"}
+        ],
+        "r": [""]
+    },
+    {
         "l": "balco", "c": "m.",
         "t": [
             {"e": "balcony", "g": "Balkon"}
